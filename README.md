@@ -5,4 +5,4 @@ Generate you sessions
 
 https://replit.com/@Prameshshanilka/Session-Md#.replit
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-10#.github/FUNDING.yml)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Prameshshanilka/Session-Md#.replit#.github/FUNDING.yml)
