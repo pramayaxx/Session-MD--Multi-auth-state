@@ -9,7 +9,7 @@ Generate you sessions
 
 Session-Multi-auth-state
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Prameshshanilka/Session-Multi-auth-state#.replit#.github/FUNDING.yml)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://session-multi-auth-state.prameshshanilka.repl.co/)
 
 
 # You all support & valide WA BOT sessions generater.
