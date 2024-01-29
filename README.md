@@ -11,5 +11,11 @@ Session-Multi-auth-state
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://session-multi-auth-state.prameshshanilka.repl.co/)
 
+PairCode
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]([[https://replit.com/@Prameshshanilka/ZUSYCO-PAIR-CODE]
+
+
+
 
 # You all support & valide WA BOT sessions generater.
