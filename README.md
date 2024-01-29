@@ -13,7 +13,7 @@ Session-Multi-auth-state
 
 PairCode
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]([[https://replit.com/@Prameshshanilka/ZUSYCO-PAIR-CODE]
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Prameshshanilka/ZUSYCO-PAIR-CODE)
 
 
 
